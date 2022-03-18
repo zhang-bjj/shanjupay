@@ -1,4 +1,3 @@
 # shanjupay
 shanjupay
-
-闪聚支付
+不将就-闪聚支付
